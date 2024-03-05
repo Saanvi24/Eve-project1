@@ -1,7 +1,6 @@
 # Final Project
 This is my Future Ready Talent Final Intern Project
-#azure link
-https://happy-ocean-08e94d300.4.azurestaticapps.net/
+#azure link https://happy-ocean-08e94d300.4.azurestaticapps.net/
 
 Topic : Pet's Little Steps (Pet Grooming and Caring Website)
 
