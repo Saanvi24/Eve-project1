@@ -25,6 +25,9 @@ Languages used to code my website :-
 2) CSS
 3) JAVASCRIPT
 
+Video link :- https://github.com/Saanvi24/Eve-project1/assets/120295937/9dfbc237-9897-41d2-a33f-3115da2f4569
+
+
 <img width="1280" alt="Screenshot 2024-03-05 at 4 45 29 PM" src="https://github.com/Saanvi24/Eve-project1/assets/120295937/63b01b53-ba9e-4b4b-a00c-b64eb635472b">
 
 <img width="1280" alt="Screenshot 2024-03-05 at 4 45 59 PM" src="https://github.com/Saanvi24/Eve-project1/assets/120295937/ecfe74dc-4f59-45df-a03b-6f8e83a7bd7f">
@@ -33,7 +36,7 @@ Languages used to code my website :-
 
 <img width="1280" alt="Screenshot 2024-03-05 at 4 46 24 PM" src="https://github.com/Saanvi24/Eve-project1/assets/120295937/6f41c1c6-4db4-47f0-9b66-9fe6cd9198ee">
 
-Video link :- https://github.com/Saanvi24/Eve-project1/assets/120295937/9dfbc237-9897-41d2-a33f-3115da2f4569
+
 
 
 
